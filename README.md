@@ -1,4 +1,4 @@
-# autisitc and control detection project
+# Autisim detection project on ABIDE dataset
 autism vs control detector for 3d medical images stored as nifti(.nii) files
 
 # How to preview nifti images:
